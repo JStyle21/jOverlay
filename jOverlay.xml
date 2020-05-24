@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<repositories encoding="UTF-8" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>jOverlay</name>
+    <description>Personal Gentoo Layman overlay</description>
+    <homepage>https://github.com/JStyle21/jOverlay.git</homepage>
+    <owner>
+      <email>unfold1911@gmail.com</email>
+      <name>Jstyle</name>
+    </owner>
+    <source branch="master" type="git">https://github.com/JStyle21/jOverlay.git</source>
+  </repo>
+</repositories>
